@@ -128,3 +128,6 @@ Implemented elements and effects:
 * Intent flags
 
 [![Publishing photo](http://img.youtube.com/vi/YgvE3cl34ps/0.jpg)](http://www.youtube.com/watch?v=YgvE3cl34ps)
+
+### Credits to Creator
+https://github.com/frogermcs/InstaMaterial
